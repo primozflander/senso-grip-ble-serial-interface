@@ -17,5 +17,5 @@ Labview 2020
 Setup
 -----
 
- 1. unzip/clone code,
+ 1. unzip/clone code
  2. open .ino file and upload it on Arduino Nano BLE board
