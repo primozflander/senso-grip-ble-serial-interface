@@ -11,10 +11,10 @@ Bluetooth Low Power
 Prerequisites:
 -------------
  
-Arduino IDE 1.8.13,
+Arduino IDE 1.8.13 | 
 Labview 2020
 
-SETUP
+Setup
 -----
 
  1. unzip/clone code,
